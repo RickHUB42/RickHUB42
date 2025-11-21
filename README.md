@@ -10,7 +10,7 @@ MynemisRick, 29'SHSID, welcome!
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=RickHUB42&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
-<img align="center" src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,htmx,anaconda,docker,pytorch,linux,raspberrypi,nodejs,unity,nginx" />
+<img align="center" src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,htmx,anaconda,docker,pytorch,linux,kali,raspberrypi,nodejs,unity" />
 
 <p align="center">
 <a href="www.github.com" target="_blank"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" /></a>
