@@ -2,15 +2,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi%20There!&fontSize=90&fontAlign=50&fontAlignY=30&desc=Rick%202029'%20SHSID&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-## Hi there 👋
-29' SHSID 
+# Hi there 👋
+MynemisRick, 29'SHSID, welcome! 
 - 🔭 I’m currently working on NLP
 - 🌱 I’m currently learning Calculus, ML, RL, CV
 - 👯 I’m looking to collaborate on ML projects
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=RickHUB42&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
-<img align="center" src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,htmx,docker,pytorch,raspberrypi,unity" />
+<img align="center" src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,htmx,anaconda,docker,pytorch,linux,raspberrypi,nodejs,unity,nginx" />
 
 <p align="center">
 <a href="www.github.com" target="_blank"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" /></a>
